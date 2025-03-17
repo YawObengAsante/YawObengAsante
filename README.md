@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Yaw Asante  
 
-🚀 **Front-End Developer | Full-Stack Enthusiast | Career Switcher from Healthcare to Tech**  
+🚀 **Front-End Developer | Full-Stack Enthusiast(MERN) | Career Switcher from Healthcare to Tech**  
 
 🔹 Passionate about building **interactive web applications** and crafting seamless **user experiences**.  
 🔹 Skilled in **React.js, Next.js, Vue.js, Node.js, and Express.js**.  
