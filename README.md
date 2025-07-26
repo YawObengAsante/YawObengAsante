@@ -4,7 +4,7 @@
 
 🔹 Passionate about building **interactive web applications** and crafting seamless **user experiences**.  
 🔹 Skilled in **React.js, Next.js, Vue.js, Node.js, and Express.js**.  
-🔹 Love working on **side projects**—currently building a **Notion-like full-stack app**.  
+🔹 Love working on **side projects**—currently building a **TeleMedicine app**.  
 🔹 Open to **collaborations, learning opportunities, and exciting challenges!**  
 
 
